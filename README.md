@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Danush-TBR
-- 👀 I’m interested in Python, Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Many Startups
+- 👀 I’m interested in Java, Web Development using Django.
+- 🙂 Learn DSA. :-)
 - 📫 How to reach me? Ping me at https://t.me/ThisisDanush
 
 <!---
